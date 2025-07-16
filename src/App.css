@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+table {
+  margin: 2rem auto;
+  width: 90%;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #222;
+  color: white;
+}
+
+td, th {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+tbody tr:hover {
+  background-color: #f9f9f9;
+}
